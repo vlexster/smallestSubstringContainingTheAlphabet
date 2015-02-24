@@ -1,0 +1,6 @@
+c:\users\vlex\documents\visual studio 2013\Projects\smallestSubstring\smallestSubstring\bin\Debug\smallestSubstring.exe.config
+c:\users\vlex\documents\visual studio 2013\Projects\smallestSubstring\smallestSubstring\bin\Debug\smallestSubstring.exe
+c:\users\vlex\documents\visual studio 2013\Projects\smallestSubstring\smallestSubstring\bin\Debug\smallestSubstring.pdb
+c:\users\vlex\documents\visual studio 2013\Projects\smallestSubstring\smallestSubstring\obj\Debug\smallestSubstring.exe
+c:\users\vlex\documents\visual studio 2013\Projects\smallestSubstring\smallestSubstring\obj\Debug\smallestSubstring.pdb
+c:\users\vlex\documents\visual studio 2013\Projects\smallestSubstring\smallestSubstring\obj\Debug\smallestSubstring.csprojResolveAssemblyReference.cache
